@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd Year Student at UoY<br>💻 Proficient in C# & Python<br>🧠 Interests in AI & ML, along with Data Science and Intuitive System Design<br> 
+🎓 4thYear Student at UoY<br>💻 Proficient in C# & Python<br>🧠 Interests in AI & ML, along with Data Science and Intuitive System Design<br> 
 
 
 ## 🌐 Socials:
