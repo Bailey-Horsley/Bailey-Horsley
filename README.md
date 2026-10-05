@@ -13,12 +13,11 @@
 - **Network Protocol Analysis** — Network configuration and protocol analysis using Wireshark, Raspberry Pi and MikroTik
 - **Reuse Marketplace Prototype** — Mobile-first UX prototype 
 
-## Tech Stack
-
 ## 💻 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
