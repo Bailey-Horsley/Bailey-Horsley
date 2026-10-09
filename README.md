@@ -1,7 +1,7 @@
 🎓 MEng Computer Science student at the University of York, graduating in 2027  
-🧠 Interested in Machine Learning, AI, Data Science and Software Engineering  
+Interested in Machine Learning, AI, Data Science and Software Engineering  
 
-## 🚀 Featured Work
+## Featured Work
 
 - **Tennis Match Prediction** — End-to-end ML pipeline using 12 years of ATP data, XGBoost, and SHAP 
 - **Deep Learning Models** — CNN for computer vision, BiGRU for representation learning, and physics-informed regression
@@ -13,7 +13,7 @@
 - **Network Protocol Analysis** — Network configuration and protocol analysis using Wireshark, Raspberry Pi and MikroTik
 - **Reuse Marketplace Prototype** — Mobile-first UX prototype 
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
